@@ -40,8 +40,6 @@ The dataset contains employee information with various attributes such as age, j
 - Tune hyperparameters (e.g., learning rate, batch size).
 - Balance the dataset if class imbalance exists.
 
-## Repository Structure
-├── attrition.ipynb # Main notebook with code implementation ├── README.md # Project overview and instructions ├── data/ # Contains the attrition.csv dataset (if needed)
 
 ## Instructions
 1. Clone the repository.
